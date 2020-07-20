@@ -19,4 +19,4 @@ deploy:
   on:
     branch: master
   access_key_id: AKIAVA74ZLBXFMISMT56
-  secret_access_key: 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
+  secret_access_key: $aws-secret-access-key
